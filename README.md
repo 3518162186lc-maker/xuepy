@@ -8,3 +8,6 @@
 -extract.py--Beautifulsoup 提取连接
 -practice.html--本地练习页
 -report.txt--爬取结果存档
+-学习笔记——11-21--  
+-从网站F12进入 提取class等 进行爬取内容 
+-熟悉了 下载-解析-存盘的完整内容
